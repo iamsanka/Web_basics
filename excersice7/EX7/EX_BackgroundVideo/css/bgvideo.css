@@ -1,0 +1,37 @@
+/*Stylying body*/
+body{
+    margin: 0;
+    position: fixed;
+}
+/*Stylying div*/
+div{
+    text-align: center;
+    padding: 10px
+}
+/*Stylying div anchor tag*/
+div a{
+    text-decoration-line: none;
+    color:rgb(129, 68, 117)
+}
+/*Stylying video*/
+video{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+/*Stylying headings*/
+h2{
+    text-align: left;
+    color:white
+    
+}
+/*Stylying paragraph*/
+p{
+    text-align: left;
+    color: white;
+}
+/*Stylying heading 1*/
+h1{
+    color: rgb(187, 194, 211);
+}

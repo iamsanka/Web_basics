@@ -1,0 +1,14 @@
+/*Stylying Div*/
+div{
+    text-align: center;
+}
+/*Stylying Div under anchor tag*/
+div h1{
+    text-decoration-line: none;
+    color:rgb(130, 127, 192);
+}
+/*Stylying video*/
+video{
+width: 640px;
+}
+

@@ -1,0 +1,13 @@
+/*Stylying Div*/
+div{
+    text-align: center;
+}
+/*Stylying Div under anchor tag*/
+div a{
+    text-decoration-line: none;
+    color:crimson
+}
+/*Stylying video*/
+video{
+width: 640px;
+}

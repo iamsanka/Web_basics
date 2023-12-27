@@ -1,0 +1,43 @@
+h4{
+    display: inline-block;
+    padding-right: 20px;
+}
+.cricket{
+    text-align: left; 
+    padding-left: 200px;
+}
+.cricket h2{
+    background-color: aqua;
+    width: 400px;
+    padding-left: 20px;
+}
+.football{
+    text-align: left;
+    padding-left: 200px;
+}
+#football{
+    text-align: left; 
+    padding-left: 200px;
+}
+#football p{
+    text-align: justify; 
+    width: 800px;
+}
+#football h2{
+    background-color: aqua;
+    width: 400px;
+    padding-left: 20px;
+}
+.drawing{
+    text-align: left; 
+    padding-left: 200px;
+}
+.drawing p{
+    text-align: justify; 
+    width: 800px;
+}
+.drawing h2{
+    background-color: aqua;
+    width: 400px;
+    padding-left: 20px;
+}

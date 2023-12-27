@@ -1,0 +1,27 @@
+h4{
+    display: inline-block;
+    padding-right: 20px;
+}
+
+#aboutme h2{
+    width: 400px;
+    padding-left: 20px;
+    background-color: aqua;
+}
+#aboutme{
+    text-align: left; 
+    padding-left: 200px;
+}
+#aboutme p{
+    width: 800px; 
+    text-align: justify;
+}
+#myhobbies{
+    text-align: left; 
+    padding-left: 200px;
+}
+#myhobbies h2{
+    background-color: aqua;
+    width:400px;
+    padding-left: 20px;
+}

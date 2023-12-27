@@ -1,0 +1,45 @@
+/*Layout of the web page */
+body{
+    text-align: center;
+    width: 1100px;
+    margin: auto;
+}
+#container{
+    background-color: rgb(179, 176, 218);
+}
+#name{
+    padding: 30px;
+    height: 120px;
+    background-color: aqua;
+}
+#menu{
+    border-collapse: collapse;
+    padding: 5px;
+    height: 70px;
+    background-color: cadetblue;
+}
+img{
+    padding-top: 10px;
+}
+.contactme{
+    background-color: aqua;
+}
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    color: blue;
+    text-decoration: none;
+}
+a:active{
+    color: yellow;
+    text-decoration: underline;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+    text-decoration: underline;
+    color: brown;
+}
